@@ -1,0 +1,7 @@
+---begin output ---
+Balance {amount=0.0}
+Balance {amount=1200.23}
+Balance {amount=2215.37}
+Balance {amount=2774.14}
+Balance {amount=12.34}
+---end output ---
